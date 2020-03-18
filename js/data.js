@@ -24,12 +24,12 @@
                 "rating" : "3"
               },
               {
-                "name" : "SQL",
-                "rating" : "1"
-              },
-              {
                 "name" : "GitHub",
                 "rating" : "2"
+              },
+              {
+                "name" : "SQL",
+                "rating" : "1"
               }
             ]
         },
