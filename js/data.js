@@ -9,11 +9,11 @@
             "skills": [
               {
                 "name" : "HTML",
-                "rating" : "6"
+                "rating" : "7"
               },
               {
                 "name" : "CSS",
-                "rating" : "6"
+                "rating" : "7"
               },
               {
                 "name" : "JavaScript",
