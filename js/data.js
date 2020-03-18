@@ -42,16 +42,16 @@
               "name" : "Node"
             },
             {
-              "name" : "Express",
+              "name" : "Express"
             },
             {
-              "name" : "React",
+              "name" : "React"
             },
             {
-              "name" : "Python",
+              "name" : "Python"
             },
             {
-              "name" : "UX Design",
+              "name" : "UX Design"
             }
           ]
       }
