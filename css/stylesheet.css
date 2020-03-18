@@ -27,6 +27,8 @@ body {
     vertical-align: top;
     text-align: center;
     width: 50%;
+    font-weight: bold;
+    font-size: 18px;
 } 
 
 .card-info h2 {
