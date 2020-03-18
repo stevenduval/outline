@@ -3,7 +3,7 @@ body {
     font-family: 'Khand', sans-serif;
 }
 .card-container {
-    width: 600px; 
+    width: 525px; 
     margin: 15vh auto; 
     padding: 20px; 
     box-shadow:  0 0 10px 5px rgba(0,0,0,0.2); 
