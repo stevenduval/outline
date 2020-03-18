@@ -12,13 +12,23 @@ body {
     font: #000;
 }
 .card-image {
-    text-align:center;
+    width: 45%;
+    display: inline-block;
 }
 .card-image img {
     width: 175px; 
     border-radius: 50%; 
     box-shadow: 0 0 0 3px #3970B7;
 } 
+
+.card-name {
+    display: inline-block;
+    line-height: 175px;
+    vertical-align: top;
+    text-align: center;
+    width: 50%;
+} 
+
 .card-info h2 {
     background: #0d0d0d;
     color: #fff;
@@ -40,4 +50,5 @@ body {
     height: 14px;
     font-size: 14px;
     text-align: center;
+    border-radius: 10px;
 }
