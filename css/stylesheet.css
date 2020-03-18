@@ -22,12 +22,16 @@ body {
 } 
 .card-name {
     display: inline-block;
-    line-height: 175px;
     vertical-align: top;
     text-align: center;
     width: 37%;
     font-size: 25px;
+    height: 175px;
+    line-height: 87px;
 } 
+.card-name span {
+    display: inline-block;
+}
 .card-info h2 {
     background: #0d0d0d;
     color: #fff;
@@ -35,6 +39,9 @@ body {
     text-align: center;
     border-radius: 50px;
     font-weight: normal;
+}
+.card-name span:nth-child(2) {
+    font-size: 18px;
 }
 .skill .name {
     display: inline-block;
