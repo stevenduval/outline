@@ -5,9 +5,6 @@
             "first": "Steven",
             "last": "Duval"
         },
-        "picture": {
-          "thumbnail": "https://ca.slack-edge.com/T0M0ARVKK-U144ZSTCK-4363a5df62f0-512"
-        },
         "skills_today": {
             "skills": [
               {
@@ -42,19 +39,22 @@
               "name" : "Node"
             },
             {
-              "name" : "Express"
+              "name" : "Express",
             },
             {
-              "name" : "React"
+              "name" : "React",
             },
             {
-              "name" : "Python"
+              "name" : "Python",
             },
             {
-              "name" : "UX Design"
+              "name" : "UX Design",
             }
           ]
-        }
+      },
+        "picture": {
+            "thumbnail": "https://ca.slack-edge.com/T0M0ARVKK-U144ZSTCK-4363a5df62f0-512"
+      }
     }
   ]
 }
