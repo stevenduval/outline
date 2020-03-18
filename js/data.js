@@ -2,9 +2,10 @@
   "results": [
     {
         "about": {
-            "first-name": "Steven",
-            "last-name": "Duval",
-            "title" : "Aspiring Full-Stack Developer"
+            "first-name" : "Steven",
+            "last-name" : "Duval",
+            "title" : "Aspiring Full-Stack Developer",
+            "thumbnail" : "https://ca.slack-edge.com/T0M0ARVKK-U144ZSTCK-4363a5df62f0-512"
         },
         "skills_today": {
             "skills": [
@@ -52,10 +53,7 @@
               "name" : "UX Design"
             }
           ]
-        },
-        "picture": {
-            "thumbnail": "https://ca.slack-edge.com/T0M0ARVKK-U144ZSTCK-4363a5df62f0-512"
-      }
+        }
     }
   ]
 }

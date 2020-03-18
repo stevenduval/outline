@@ -8,7 +8,7 @@ const generateOutline = (data) => {
         body.insertAdjacentHTML('afterbegin', `
             <div class="card-container">
                 <div class="card-image">
-                    <img src="${result.picture.thumbnail}"/> 
+                    <img src="${result.about.thumbnail}"/> 
                 </div>
                 <div class="card-name">
                     <span>${result.about.first-name} ${result.about.last-name}<span>
