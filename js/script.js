@@ -11,7 +11,7 @@ const generateOutline = (data) => {
                     <img src="${result.picture.thumbnail}"/> 
                 </div>
                 <div class="card-name">
-                    <h2>${result.name.first} ${result.name.last}</h2>
+                    ${result.name.first} ${result.name.last}
                 </div>
                 <div class="card-info">
                     <h2>Current Skills</h2>
