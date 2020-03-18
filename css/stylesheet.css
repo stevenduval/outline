@@ -1,6 +1,6 @@
 body {
     background-color: #bfbfbf; 
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Khand', sans-serif;
 }
 .card-container {
     width: 600px; 
@@ -26,19 +26,18 @@ body {
     vertical-align: top;
     text-align: center;
     width: 37%;
-    font-weight: bold;
     font-size: 25px;
 } 
 .card-info h2 {
     background: #0d0d0d;
     color: #fff;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     border-radius: 50px;
+    font-weight: normal;
 }
 .skill .name {
     display: inline-block;
-    font-weight: bold; 
     font-size: 18px; 
     width: 60%;
 }
