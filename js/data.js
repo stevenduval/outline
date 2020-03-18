@@ -6,8 +6,32 @@
             "last": "Duval"
         },
         "skills_today": {
-            "skills": ["HTML", "CSS", "JavaScript", "jQuery", "SQL", "GitHub"],
-            "skills_rating": [6, 6, 3, 3, 2, 3]
+            "skills": [
+              {
+                "name" : "HTML",
+                "rating" : "6"
+              },
+              {
+                "name" : "CSS",
+                "rating" : "6"
+              },
+              {
+                "name" : "JavaScript",
+                "rating" : "3"
+              },
+              {
+                "name" : "jQuery",
+                "rating" : "3"
+              },
+              {
+                "name" : "SQL",
+                "rating" : "1"
+              },
+              {
+                "name" : "GitHub",
+                "rating" : "2"
+              }
+            ]
         },
         "skills_future": {
             "skills": ["Node", "Express", "React", "Python", "UX Design"]
