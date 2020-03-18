@@ -7,7 +7,7 @@
         },
         "skills_today": {
             "skills": ["HTML", "CSS", "JavaScript", "jQuery", "SQL", "GitHub"],
-            "skills_rating: [6, 6, 3, 3, 2, 3]
+            "skills_rating": [6, 6, 3, 3, 2, 3]
         },
         "skills_future": {
             "skills": ["Node", "Express", "React", "Python", "UX Design"]
