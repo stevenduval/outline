@@ -26,7 +26,7 @@ const generateOutline = (data) => {
         result.skills_today.skills.slice().reverse().forEach(skill => {
             document.querySelectorAll('.skill')[0].insertAdjacentHTML("afterbegin", `
                 <span class="name">${skill.name}</span>
-                <span class="rating">${skill.rating*10}</span>
+                <span class="rating"><span style="width:${skill.rating * 10}%">${skill.rating * 10}%<span></span>
             `)
         });
         result.skills_future.skills.slice().reverse().forEach(skill => {
