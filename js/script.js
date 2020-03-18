@@ -32,7 +32,7 @@ const generateOutline = (data) => {
         result.skills_future.skills.slice().reverse().forEach(skill => {
             document.querySelectorAll('.skill')[1].insertAdjacentHTML("afterbegin", `
                 <span class="name">${skill.name}</span>
-                <span class="rating">coming soon!</span>
+                <span class="rating" style="background:#f44336;">coming soon!</span>
             `)
         });
     });
@@ -43,5 +43,3 @@ fetch('https://raw.githubusercontent.com/stevenduval/outline/master/js/data.js')
     .then(response => response.json())
     .then(generateOutline)
     .catch((error) => body.insertAdjacentHTML('afterbegin', `<div class="loading" style="margin-top: 50vh; text-align: center;">Oops something went wrong. Please try again!</div>`));
-
-   
