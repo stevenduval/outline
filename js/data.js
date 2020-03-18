@@ -2,8 +2,8 @@
   "results": [
     {
         "about": {
-            "first-name" : "Steven",
-            "last-name" : "Duval",
+            "first_name" : "Steven",
+            "last_name" : "Duval",
             "title" : "Aspiring Full-Stack Developer",
             "thumbnail" : "https://ca.slack-edge.com/T0M0ARVKK-U144ZSTCK-4363a5df62f0-512"
         },
