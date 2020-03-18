@@ -1,0 +1,33 @@
+body {
+    background-color: #bfbfbf; 
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.card-container {
+    width: 600px; 
+    margin: 15vh auto; 
+    padding: 20px; 
+    box-shadow:  0 0 10px 5px rgba(0,0,0,0.2); 
+    border-radius: 5px; 
+    background-color: #f2f2f2;
+    font: #000;
+}
+.card-image {
+    text-align:center;
+}
+.card-image img {
+    width: 175px; 
+    border-radius: 50%; 
+    box-shadow: 0 0 0 3px #3970B7;
+} 
+.skill .name {
+    display: inline-block;
+    font-weight: bold; 
+    font-size: 18px; 
+    width: 60%;
+}
+.skill .rating {
+    display: inline-block; 
+    background-color: #ccc; 
+    height: 10px; 
+    width: 37%;
+}
