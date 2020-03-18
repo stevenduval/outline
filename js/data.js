@@ -1,9 +1,10 @@
 {
   "results": [
     {
-        "name": {
-            "first": "Steven",
-            "last": "Duval"
+        "about": {
+            "first-name": "Steven",
+            "last-name": "Duval",
+            "title" : "Aspiring Full-Stack Developer"
         },
         "skills_today": {
             "skills": [
